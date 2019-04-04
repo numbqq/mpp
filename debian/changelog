@@ -1,3 +1,9 @@
+mpp (1.4.0-2) testing; urgency=medium
+
+  * bump to commit ef5c4bc19202beb5db2d39432927ece1ed0bdb6b
+
+ -- Nick <nick@khadas.com>  Thu, 04 Apr 2019 10:18:00 +0800
+
 mpp (1.4.0-1) stable; urgency=critical
 
   [ Herman Chen ]
